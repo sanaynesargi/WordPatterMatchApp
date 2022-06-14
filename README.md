@@ -1,4 +1,4 @@
-# # **WordPatternMatch**
+# **WordPatternMatch**
 ## A Wordle-like Game
 ### By: Sanay Nesargi
 
