@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../Python Projects/WordGame"
+	},
+	{
+		"path": "../../wordgame-server"
+	}
+],
+  "settings": {}
+}
